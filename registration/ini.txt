@@ -1,0 +1,192 @@
+
+
+thermodynamic
+coureRequire : physics1
+hour :4
+
+
+math3
+courseRequire :math2
+hour :3
+
+
+circuit
+courseRequire:Physics2
+hour :4
+
+intro. to mechatronics
+courseRequire:0
+hour :3
+
+
+technical rebort
+courseRequire:0
+hour :1
+
+
+mateial science
+courseRequire:physics1
+hour :3
+
+********************
+
+
+
+fluid 
+courseRequire :phasics1
+hour :4
+
+c++
+courseRequire :intro to computer
+hour :3
+
+electromagnetic feilds
+courseRequire :physics2
+hour :4
+
+ethtic and law
+courseRequire :0
+hour :1
+
+maths 4
+courseRequire :0
+hour :3
+
+
+stress analtsis
+courseRequire :4
+hour :dynamics
+
+
+
+
+human right
+courseRequire :0
+hour :1
+
+heat transfer
+courseRequire :fluid
+hour :4
+
+electro machine
+courseRequire :circuit
+hour :3
+
+vibration
+courseRequire :srsess analysis
+hour :4
+
+material tochnolgy
+courseRequire :mateial sceince
+hour :3
+
+plc
+courseRequire :intro to computer
+hour :3
+
+
+
+
+mangement
+courseRequire :0
+hour :2
+
+
+method of engineering analytics
+courseRequire :math3
+hour :3
+
+
+design
+courseRequire :stressAnalysis
+hour :4
+
+
+measurement
+courseRequire :intro to mechatronics
+hour :3
+
+circuit 2
+courseRequire :circuit
+hour :4
+
+
+quality
+courseRequire :0
+hour :2
+
+
+
+
+economics
+
+courseRequire :
+hour :
+
+
+ intro system dynamics
+
+courseRequire :
+hour :
+
+
+electic power
+
+courseRequire :
+hour :
+
+
+micro prossing
+courseRequire :
+hour :
+
+
+dynamics and kinamatics of machine
+courseRequire :
+hour :
+
+
+cad
+courseRequire :
+hour :
+
+
+
+environment science
+courseRequire :
+hour :
+
+
+fundamental of control system
+courseRequire :
+hour :
+
+micro controller
+courseRequire :
+hour :
+
+design mechatronic system
+courseRequire :
+hour :
+
+cnc
+courseRequire :
+hour :
+
+
+
+
+
+20152816
+gpa :3.3
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics
+20152817
+gpa :3.5
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics
+
+20152816
+gpa :3.8
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics

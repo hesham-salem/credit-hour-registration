@@ -1,0 +1,20 @@
+*/ library for ultrasonics sensor written by Hesham Salem in 2016/4/29
+
+
+
+#include<Ultrasonic.h>
+#include<Arduino.h>
+
+
+Ultrasonic ::distance(int echo,int trig)
+
+{
+digitalWrite(trig,0);
+delayMicroseconds(2);
+digitalwrite(trig,1);
+delayMicroseconds(10);
+digitalWrite(trig,0);
+float time =pulseIn(echo,1);
+float d =time/58.0;
+return d;
+}

@@ -1,0 +1,13 @@
+
+#ifndef ultrasonic
+#define Ultrasonic
+#include<Arduino.h>
+
+class Ultrasonic
+{ public :
+float distance( echo ,trig)
+private :
+int echo;
+int trig;
+};
+#endif

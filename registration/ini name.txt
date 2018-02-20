@@ -1,0 +1,13 @@
+20152816
+gpa :3.3
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics
+20152817
+gpa :3.5
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics
+
+20152816
+gpa :3.8
+fee :1
+coursesTaken : physics1,physics2,maths1,maths2,drawing1,drawing2,intro. to computer,production,engineering chamestry;engineering history,dynamics,statics,thermodynamics,circuit,math3,material sceince,technical report,intro. to mechatronics
